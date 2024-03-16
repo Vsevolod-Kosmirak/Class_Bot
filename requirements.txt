@@ -1,0 +1,5 @@
+requests==2.31.0
+redis==5.0.1
+python-dotenv==1.0.0
+lxml==4.9.3
+PyTelegramBotApi==4.15.4
